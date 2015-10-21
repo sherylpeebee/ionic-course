@@ -4,3 +4,4 @@
 code/node_modules/
 code/platforms/
 code/plugins/
+.secrets
