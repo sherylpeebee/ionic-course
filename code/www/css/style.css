@@ -32,9 +32,6 @@
 }
 
 /* Discover page stylings */
-.discover-page {
-
-}
 
 .discover-page .current-song {
   -webkit-transform: scale(1);
@@ -84,6 +81,7 @@
   transform: scale(0.7) translateX(0px) rotate(0deg);
   opacity: 0;
 }
+
 
 .discover-page .img-lookahead img {
   height:1px;
